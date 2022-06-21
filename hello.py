@@ -15,7 +15,7 @@ class Crypto:
 # 3) In a new loop, you're only going to print the cryptos that start with the letter a
 
 
-# A-Cryptos are cryptos with names that start with a
+# A-Cryptos are cryptos with names that start with A
 # 4) Find the total number of A-Cryptos where their symbol starts with a vs. doesn't & print
 newCrypto = []
 aCrypto = 0
